@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="leonardocabreira"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-03 02:39:45 PM"/>
+        <attribute name="created" value="bGVvbmFyZG9jYWJyZWlyYTtsZW9uYXJkb2NhYnJlaXJhOzIwMjItMDQtMDM7MDI6MzQ6MDkgUE07NDYyOQ=="/>
+        <attribute name="edited" value="bGVvbmFyZG9jYWJyZWlyYTtsZW9uYXJkb2NhYnJlaXJhOzIwMjItMDQtMDM7MDI6Mzk6NDUgUE07MTs0NzQy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Janeiro, Fevereiro, Mar&#231;o, Abril, media" type="Real" array="False" size=""/>
+            <input variable="Janeiro"/>
+            <input variable="Fevereiro"/>
+            <input variable="Mar&#231;o"/>
+            <input variable="Abril"/>
+            <assign variable="media" expression="(Janeiro+Fevereiro+Mar&#231;o+Abril)/4"/>
+            <output expression="media" newline="True"/>
+            <if expression="media&gt;5000">
+                <then>
+                    <output expression="&quot;Parab&#233;ns! Voc&#234; recebeu abono de 10%&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Voc&#234; n&#227;o atingiu a meta! Abono de 3%&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
