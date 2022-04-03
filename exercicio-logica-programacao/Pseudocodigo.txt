@@ -1,0 +1,25 @@
+Desafio dos Pinguins
+
+Início de jogo
+Coloca o pinguim bebê azul no gelo 
+Coloca o pinguim papai azul no gelo
+Atravessa
+Coloca o pinguim papai azul no iceberg
+Deixa o pinguim bebê azul no gelo e atravessa
+Coloca o pinguim bebê verde no gelo junto com o pinguim bebê azul no gelo
+Atravessa
+Deixa o pinguim bebê azul no iceberg
+Deixa o pinguim bebê verde no gelo e atravessa
+Coloca o pinguim papai verde junto com o pinguim bebê verde no gelo
+Atravessa
+Coloca o pinguim papai verde no iceberg
+Deixa o pinguim bebê verde no gelo e atravesso
+Coloca o pinguim bebê vermelho no gelo junto com o pinguim bebê verde no gelo
+Atravessa
+Deixa o pinguim bebê verde no iceberg
+Deixa o pinguim bebê vermelho no gelo e atravessa
+Coloca o pinguim papai vermelho junto com o pinguim bebê vermelho no gelo
+Atravessa
+Deixa o pinguim papai vermelho no iceberg
+Deixa o pinguim bebê vermelho no iceberg
+Fim de jogo.
